@@ -14,3 +14,7 @@ The task consisted of 2 parts:
 1. Identify 3 research questions based on the BRFSS data & use data analysis principles to help answer them.
 2. All analysis needs to be completed using the R programming language via RStudio, and the write up must be an R Markdown document.
 
+# Note:
+
+The original 'brfss2013.RData' file was a 53MB file (491775 obs. of 330 variables). This was file truncated by picking up only the variables that were used in the analysis.
+This is the file uploaded in github
