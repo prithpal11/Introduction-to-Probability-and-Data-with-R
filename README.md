@@ -1,23 +1,15 @@
 # Statistics-with-R-Specialization
 Data Analysis Project # 1
+Part of the online course "Introduction to Probability and Data with R", Duke University
 
-Project Description:
-This project is a part of the online course offered by Duke university, "Introduction to Probability and Data with R"
+Project Information:
 
-Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+The dataset from Behavioral Risk Factor Surveillance System (BRFSS), a collaborative project between all of the states in the United States (US) and participating US territories and the Centers for Disease Control and Prevention (CDC) was provided. 
 
-Description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+The BRFSS objective is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases that affect the adult population. Factors assessed by the BRFSS in 2013 include tobacco use, HIV/AIDS knowledge and prevention, exercise, immunization, health status, healthy days — health-related quality of life, health care access, inadequate sleep, hypertension awareness, cholesterol awareness, chronic health conditions, alcohol consumption, fruits and vegetables consumption, arthritis burden, and seatbelt use. Since 2011, BRFSS conducts both landline telephone- and cellular telephone-based surveys. In conducting the BRFSS landline telephone survey, interviewers collect data from a randomly selected adult in a household.
 
-Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+Project Objective:
+The task consisted of 2 parts:
+1. Identify 3 research questions 
+2. All analysis must be completed using the R programming language via RStudio, and the write up must be an R Markdown document.
 
-Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
-
-Usage: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-Contributing: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
-
-Credits: Include a section for credits in order to highlight and link to the authors of your project.
-
-License: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
-
-Your README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis, outlined below.
