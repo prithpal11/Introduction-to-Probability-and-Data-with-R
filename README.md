@@ -10,9 +10,9 @@ The BRFSS objective is to collect uniform, state-specific data on preventive hea
 
 # Project Objective:
 
-The task consisted of 2 parts:
-1. Identify 3 research questions based on the BRFSS data & use data analysis principles to help answer them.
-2. All analysis needs to be completed using the R programming language via RStudio, and the write up must be an R Markdown document.
+The Project objective consisted of 2 parts:
+1. Identifying 3 research questions based on the BRFSS data & use of data analysis principles to help answer them.
+2. All analysis were to be completed using the R programming language via RStudio, along with its write-up as an R Markdown document.
 
 # Note:
 
