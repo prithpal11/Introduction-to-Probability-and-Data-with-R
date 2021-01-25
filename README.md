@@ -14,11 +14,11 @@ The BRFSS objective is to collect uniform, state-specific data on preventive hea
 
 ## Project Objective & analysis report:
 
-**R program file**: BRFSS2013_Analysis_program.Rmd
-
 The Project objective consisted of 2 parts:
 1. Identifying 3 research questions based on the BRFSS data & use of data analysis principles to help answer them.
 2. All analysis were to be completed using the R programming language via RStudio, along with its write-up as an R Markdown document.
+
+**R program file**: BRFSS2013_Analysis_program.Rmd
 
 To view the Project analysis report, [Click here](https://prithpal11.github.io/Introduction-to-Probability-and-Data-with-R/BRFSS2013_Analysis_program)
 
