@@ -2,7 +2,7 @@
 
 Project for online course on 'Introduction to Probability and Data with R', Duke University. 
 
-This was course 1 of 5 courses under the 'Statistics with R Specialization' 
+This was course 1 of 5 under the 'Statistics with R Specialization'.
 
 # Project Information:
 
