@@ -16,7 +16,7 @@ The Project objective consisted of 2 parts:
 1. Identifying 3 research questions based on the BRFSS data & use of data analysis principles to help answer them.
 2. All analysis were to be completed using the R programming language via RStudio, along with its write-up as an R Markdown document.
 
-The view the Project report, Click here(https://prithpal11.github.io/Introduction-to-Probability-and-Data-with-R/BRFSS2013_Analysis_program)
+The view the Project report, [Click here](https://prithpal11.github.io/Introduction-to-Probability-and-Data-with-R/BRFSS2013_Analysis_program)
 
 # Note:
 
