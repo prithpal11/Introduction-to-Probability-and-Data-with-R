@@ -14,7 +14,7 @@ The BRFSS objective is to collect uniform, state-specific data on preventive hea
 
 ## Project Objective & analysis report:
 
-**R programming file**: BRFSS2013_Analysis_program.Rmd
+**R program file**: BRFSS2013_Analysis_program.Rmd
 
 The Project objective consisted of 2 parts:
 1. Identifying 3 research questions based on the BRFSS data & use of data analysis principles to help answer them.
