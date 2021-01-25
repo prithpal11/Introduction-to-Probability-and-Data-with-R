@@ -16,5 +16,5 @@ The task consisted of 2 parts:
 
 # Note:
 
-The original 'brfss2013.RData' file was a 53MB file (491775 obs. of 330 variables). This was file truncated by picking up only the variables that were used in the analysis.
-This is the file uploaded in github
+The original 'brfss2013.RData' file was a 53MB file (491775 obs. of 330 variables). This file was truncated by picking up only the variables that were used in the analysis.
+The file thus obtained of size approx. 5MB (491775 obs. of 17 variables) is uploaded here.
