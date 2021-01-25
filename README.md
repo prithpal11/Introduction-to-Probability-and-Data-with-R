@@ -1,6 +1,8 @@
-# Statistics with R Specialization: Data Analysis Project # 1
+# Data Analysis Project # 1
 
-Part of the online course "Introduction to Probability and Data with R", Duke University
+Project for online course on 'Introduction to Probability and Data with R', Duke University. 
+
+This was course 1 of 5 courses under the 'Statistics with R Specialization' 
 
 # Project Information:
 
