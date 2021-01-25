@@ -4,7 +4,7 @@ Project for online course on 'Introduction to Probability and Data with R', Duke
 
 This was course 1 of 5 under the 'Statistics with R Specialization'.
 
-# Project Information:
+# Dataset Information:
 
 The dataset from Behavioral Risk Factor Surveillance System (BRFSS), a collaborative project between all of the states in the United States (US) and participating US territories and the Centers for Disease Control and Prevention (CDC) was provided. 
 
