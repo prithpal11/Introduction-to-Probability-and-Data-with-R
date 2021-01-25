@@ -6,7 +6,7 @@ This was course 1 of 5 under the 'Statistics with R Specialization'.
 
 ## Dataset Information:
 
-**Dataset file**: reg_model_project-2.Rmd
+**Dataset file**: brfss2013.RData
 
 The dataset from Behavioral Risk Factor Surveillance System (BRFSS), a collaborative project between all of the states in the United States (US) and participating US territories and the Centers for Disease Control and Prevention (CDC) was provided. 
 
@@ -14,7 +14,7 @@ The BRFSS objective is to collect uniform, state-specific data on preventive hea
 
 ## Project Objective & analysis report:
 
-**R programming file**: reg_model_project-2.Rmd
+**R programming file**: BRFSS2013_Analysis_program.Rmd
 
 The Project objective consisted of 2 parts:
 1. Identifying 3 research questions based on the BRFSS data & use of data analysis principles to help answer them.
