@@ -9,6 +9,7 @@ The dataset from Behavioral Risk Factor Surveillance System (BRFSS), a collabora
 The BRFSS objective is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases that affect the adult population. Factors assessed by the BRFSS in 2013 include tobacco use, HIV/AIDS knowledge and prevention, exercise, immunization, health status, healthy days — health-related quality of life, health care access, inadequate sleep, hypertension awareness, cholesterol awareness, chronic health conditions, alcohol consumption, fruits and vegetables consumption, arthritis burden, and seatbelt use. Since 2011, BRFSS conducts both landline telephone- and cellular telephone-based surveys. In conducting the BRFSS landline telephone survey, interviewers collect data from a randomly selected adult in a household.
 
 Project Objective:
+
 The task consisted of 2 parts:
 1. Identify 3 research questions 
 2. All analysis must be completed using the R programming language via RStudio, and the write up must be an R Markdown document.
